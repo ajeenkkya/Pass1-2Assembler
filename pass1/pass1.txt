@@ -1,0 +1,1 @@
+This folder contains Symbol table, Literal table and Target code which are the output after the pass1.
